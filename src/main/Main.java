@@ -247,7 +247,7 @@ public class Main {
                     break;
 
 
-                // ISSUE BOOK
+
                 // ISSUE BOOK
                 case 6:
 
@@ -263,7 +263,7 @@ public class Main {
 
                     break;
 
-                // RETURN BOOK
+
                 // RETURN BOOK
                 case 7:
 
