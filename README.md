@@ -254,21 +254,39 @@ This project helped strengthen understanding of:
 ---
 # Screenshots
 
-## Login
+## User Registration & Login
 
-![Login](screenshots/login.png)
+![User Login](screenshots/user-registration-login.png)
 
-## Main Menu
-
-![Menu](screenshots/menu.png)
+---
 
 ## Add Book
 
-![Add Book](screenshots/add-book.png)
+![Add Book](screenshots/book-add.png)
+
+---
+
+## Issue Book
+
+![Issue Book](screenshots/book-issue.png)
+
+---
 
 ## View Books
 
-![View Books](screenshots/view-books.png)
+![View Books](screenshots/book-view.png)
+
+---
+
+## Return Book
+
+![Return Book](screenshots/return-book.png)
+
+---
+
+## Logout
+
+![Logout](screenshots/log-out.png)
 
 # GitHub
 
