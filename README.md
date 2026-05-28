@@ -252,6 +252,23 @@ This project helped strengthen understanding of:
 * Git & GitHub Workflow
 
 ---
+# Screenshots
+
+## Login
+
+![Login](screenshots/login.png)
+
+## Main Menu
+
+![Menu](screenshots/menu.png)
+
+## Add Book
+
+![Add Book](screenshots/add-book.png)
+
+## View Books
+
+![View Books](screenshots/view-books.png)
 
 # GitHub
 
