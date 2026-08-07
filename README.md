@@ -2,7 +2,7 @@
 
 ## Overview
 
-A backend-focused Library Management System developed using Java, JDBC, and MySQL following layered architecture principles.
+A backend-focused Library Management System developed using Java, JDBC, and MySQL following layered architecture principle
 
 The project implements authentication, CRUD operations, issue-return workflow, inventory management, transaction handling, and fine calculation while following DAO and Service Layer architecture.
 
