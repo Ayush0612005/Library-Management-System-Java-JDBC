@@ -6,7 +6,7 @@ A backend-focused Library Management System developed using Java, JDBC, and MySQ
 
 The project implements authentication, CRUD operations, issue-return workflow, inventory management, transaction handling, and fine calculation while following DAO and Service Layer architecture.
 
-This project was built to strengthen backend engineering fundamentals and simulate real-world business logic handling.
+This project was built to strengthen backend engineering fundamentals and simulate real-world business logic.
 
 ---
 
